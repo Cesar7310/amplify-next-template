@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=EJjiK16Lw_8
+
+// ------ Añadir interfaces gráficas ----///
+npm add @aws-amplify/ui-react
